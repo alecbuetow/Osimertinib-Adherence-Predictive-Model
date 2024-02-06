@@ -2,7 +2,7 @@
 
 Predictive analytics were performed via a neural network in order to identify patients at risk of prematurely ending their Osimertinib treatment. An AUC of 0.93 was achieved on validation data through focused feature selection. This project was undertaken as part of the Humana-Mays Healthcare Analytics Case Competition, where our team proceeded to the semifinals, placing in the top 50 of 150 teams.
 
-# Key Takeaway
+# Key Takeaways
 
 - **Neural Network:** Achieved an AUC of 0.93 on Validation Set
 - **Data Engineering:** Many observations linked to one outcome by aggregation
